@@ -21,3 +21,6 @@ Proyek ini mencakup:
 - Museum apa saja yang buka setiap hari?
 - Sebutkan top-3 negara dengan jumlah museum dan lukisan terbanyak!
 - Apa top-5 subjek lukisan apa yang paling sering muncul?
+
+🔗 **Baca di Medium:**  
+[https://medium.com/@febriananursyifarizqi/menjelajahi-sejarah-seni-melalui-sql-analisis-data-lukisan-terkenal-8e741b7f9309](https://medium.com/@febriananursyifarizqi/menjelajahi-sejarah-seni-melalui-sql-analisis-data-lukisan-terkenal-8e741b7f9309)
