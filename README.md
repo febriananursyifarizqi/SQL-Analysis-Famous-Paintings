@@ -9,16 +9,7 @@ Proyek ini mencakup:
 - Analisis menggunakan query SQL
 
 ## 🗄️ Struktur Database
-
-Terdapat 8 tabel, yaitu:
-- `artist`
-- `work`
-- `museum`
-- `museum_hours`
-- `subject`
-- `canvas_size`
-- `product_size`
-- `image_link`
+![SQL-Analysis-Famous-Paintings](./database_schema.png) 
 
 ## 🔍 Query Analisis
 - Siapa top-5 seniman dengan jumlah karya terbanyak?
